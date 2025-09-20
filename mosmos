@@ -1,0 +1,5 @@
+　```bash
+pip install git+https://github.com/openai/whisper.git
+
+pip install ffmpeg-python
+whisper 渡辺通2丁目.m4a --language Japanese --model small
